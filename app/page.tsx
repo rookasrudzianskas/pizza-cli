@@ -217,7 +217,7 @@ export default function Home() {
               </p>
             </div>
   
-  <div className="mt-5 flex items-center justify-between">
+  <div className="mt-5 flex items-center justify-between flex flex-col md:flex-row">
     <div className="flex items-center">
       <span className="mr-2 text-xl">🚀</span>
       <span className="font-bold">Don't miss your chance on a ONE BILLION Euros idea</span>
