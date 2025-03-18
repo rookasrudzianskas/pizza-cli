@@ -23,7 +23,7 @@ export default function CliInterface() {
     {
       command: "",
       output:
-        "🍕 Welcome to Pizza Paradise CLI v1.0.0\n" +
+        "🍕 Welcome to Pizza CLI v1.0.0\n" +
         "Type 'help' to see available commands.\n" +
         "Start your order with 'order pizza'.",
     },
@@ -190,7 +190,7 @@ export default function CliInterface() {
             "- help: Show this help message\n" +
             "- order pizza: Start a new pizza order\n" +
             "- clear: Clear the terminal\n" +
-            "- about: Learn about Pizza Paradise"
+            "- about: Learn about Pizza CLI"
           break
 
         case "order pizza":
@@ -212,7 +212,7 @@ export default function CliInterface() {
             "🍕 Pizza CLI 🍕\n\n" +
             "We make the best pizzas for your meetups and events!\n" +
             "Our pizzas are made with fresh ingredients and baked to perfection.\n" +
-            "Order now and experience pizza paradise!"
+            "Order now and experience pizza CLI!"
           break
 
         default:
