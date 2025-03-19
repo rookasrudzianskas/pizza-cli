@@ -73,8 +73,7 @@ export default function Home() {
                 Hint: Type <code className="bg-white/20 px-1 py-0.5 rounded">help</code> to see available commands.
               </p>
               <p>
-                Start your order with <code className="bg-white/20 px-1 py-0.5 rounded">order pizza</code> or type{" "}
-                <code className="bg-white/20 px-1 py-0.5 rounded">form</code> to scroll to the form below.
+                Start your order with <code className="bg-white/20 px-1 py-0.5 rounded">order pizza</code>.
               </p>
             </div>
             
